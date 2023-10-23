@@ -26,8 +26,8 @@ Specialties: fast learner, organizer, dedicated, honest.
 
 ## Blog posts
 - [React Optimization: React.memo, useMemo, useCallback](https://saimumislam27.medium.com/react-optimization-react-memo-usememo-usecallback-45f1040e6f98)
+- [React Hook Form: a different way to handle](https://medium.com/@saimumislam27/react-hook-form-a-different-way-to-handle-e3c7df04972b)
 - [Customizing Material-UI components](https://saimumislam27.medium.com/customizing-material-ui-components-cd77e296f2c)
-- [This is the Last Resource You Need to Choose a UI Library for React](https://levelup.gitconnected.com/this-is-the-last-resource-you-need-to-choose-a-ui-library-for-react-7af5aa60ecfb?source=rss-fe04a352a811------2)
 - [Dropbox for JavaScript Developers](https://saimumislam27.medium.com/dropbox-for-javascript-developers-8c724dfd9406)
 - [Hoisting in JavaScript](https://saimumislam27.medium.com/hoisting-in-javascript-8eaa6e9d6107)
   
