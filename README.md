@@ -1,6 +1,6 @@
 # SaimumIslam
 
-I'm Saimum Islam, a talented full-stack engineer who has a passion for coming up with creative solutions that meet the needs of my clients. With 3 years of industry experience, I have honed my abilities in a variety of technologies, especially React.js, Django Rest Framework, and Express.js.
+I'm Saimum Islam, a talented full-stack engineer who has a passion for coming up with creative solutions that meet the needs of my clients. With 4 years of industry experience, I have honed my abilities in a variety of technologies, especially React.js, Django Rest Framework, Koa.js and React Native.
 
 I firmly believe in the value of coding standards and do my best to adhere to them when writing high-quality, idiomatic code. I also think of effective group dynamics and team members that pick things up quickly.
 
@@ -20,6 +20,7 @@ Specialties: fast learner, organizer, dedicated, honest.
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="django-rest-framework" src="https://img.shields.io/badge/django%20rest%20framework-%23A30000?logo=django&logoColor=white&style=for-the-badge" />
 <img align="left" alt="expressjs" src="https://img.shields.io/badge/express.js%20-%2343853D.svg?&style=for-the-badge&logo=express.js&logoColor=white" />
+<img align="left" alt="react-native" src="https://img.shields.io/badge/React_Native-%2320232a.svg?&style=for-the-badge&logo=express.js&logoColor=white" />
 <img align="left" alt="mysql" src="https://img.shields.io/badge/mysql-%23316192.svg?&style=for-the-badge&logo=mysql&logoColor=%2361DAFB" />
 <br>
 <br>
