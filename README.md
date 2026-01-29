@@ -1,8 +1,8 @@
 # SaimumIslam
 
-I'm Saimum Islam, a talented full-stack engineer who has a passion for coming up with creative solutions that meet the needs of my clients. With 4 years of industry experience, I have honed my abilities in a variety of technologies, especially React.js, Django Rest Framework, Koa.js and React Native.
+I am Saimum Islam, a full-stack software engineer with four years of industry experience and a strong passion for designing creative, client-centered solutions. Over the course of my career, I have developed solid expertise in modern web and mobile technologies, with a particular focus on React.js, Django REST Framework, Koa.js, and React Native.
 
-I firmly believe in the value of coding standards and do my best to adhere to them when writing high-quality, idiomatic code. I also think of effective group dynamics and team members that pick things up quickly.
+I place a high value on clean, maintainable, and standards-compliant code, and I consistently strive to follow best practices and idiomatic patterns in my development work. In addition to technical proficiency, I strongly believe in effective collaboration, positive team dynamics, and working with team members who are adaptable and quick to learn.
 
 Specialties: fast learner, organizer, dedicated, honest.
 
