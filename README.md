@@ -1,10 +1,19 @@
-# SaimumIslam
+## Hi, I'm Saimum 👋
 
-I am Saimum Islam, a full-stack software engineer with nearly six years of industry experience and a strong passion for designing creative, client-centered solutions. Over the course of my career, I have built solid expertise across web, desktop, and mobile. I work mainly with React, Next.js on the front end, Django REST Framework, and Koa.js, Go on the back end backed by PostgreSQL and SQLite.
+Full-stack engineer with nearly six years of experience building web, desktop and mobile products. I like turning real client needs into clean, maintainable software.
 
-I place a high value on clean, maintainable, and standards-compliant code, and I consistently follow best practices and idiomatic patterns in my work. Alongside engineering, I have published research in Bangla NLP and enjoy building AI features such as RAG-based tools, especially for education. I believe strongly in effective collaboration and positive team dynamics, and I like working with teammates who are adaptable and quick to learn.
+**Frontend:** React, Next.js, TypeScript, Tailwind, shadcn/ui
+**Backend:** Django REST Framework, Koa.js, Go
+**Data:** PostgreSQL, SQLite, Redis
+**AI/LLM:** RAG, LLM, Embeddings, ChromaDB, LangChain, Python
+**Infra:** Docker, AWS, Terraform, CI/CD
 
-Specialties: fast learner, organized, dedicated, honest.
+### Also
+- Published two IEEE papers in Bangla NLP (KULemma, BNNet)
+- Interested in AI features for education, especially RAG
+
+💬 Strengths: fast learner, organized, dedicated, honest
+🌐 [saimum.me](https://saimum.me)
 
 ## Connect with me
 
