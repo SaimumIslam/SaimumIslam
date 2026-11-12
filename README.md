@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Saimum 👋</h1>
-<h3 align="center">Full-Stack Software Engineer · React · Django REST · Go · AI/LLM</h3>
+<h3 align="center">Full-Stack Software Engineer · React · Django REST ·  Node.js · AI/LLM</h3>
 
 <p align="center">
   <a href="https://saimum.me"><img alt="website" src="https://img.shields.io/badge/saimum.me-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
